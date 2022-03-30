@@ -1,0 +1,11 @@
+MODULES USED
+
+numpy
+opencv-python
+tensorflow
+tflearn
+keras
+
+RUN (ANACONDA ENV AS BUILT IN IT)
+
+python main.py --mode display
